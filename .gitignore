@@ -1,0 +1,11 @@
+.env
+*__pycache__*
+.vscode
+src/cogs/__pychache__/*
+*.pyc
+*.swp
+*config
+*.db
+botconfig.py
+sha*
+
