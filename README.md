@@ -1,4 +1,4 @@
-* This is a re-upload from gitlab for my convenience *
+*This is a re-upload from gitlab for my convenience*
 
 # MAGIC CHILD
 
